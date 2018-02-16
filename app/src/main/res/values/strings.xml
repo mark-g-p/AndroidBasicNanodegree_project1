@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="company_photo">Company Photo</string>
+    <string name="company_name">Meow Meow Design</string>
+    <string name="phone_number">555&#8211;555&#8211;555</string>
+    <string name="company_website">www.meow-meow-design.com</string>
+    <string name="address_1">Psie Budy 3</string>
+    <string name="address_2">50&#8211;080 Wrocław</string>
+</resources>
